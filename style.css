@@ -1,0 +1,10 @@
+body{
+    min-height: 100vh;
+    display: flex;
+    text-align: center;
+    font-weight: bolder;
+    font-size:xxx-large;
+    justify-content: center;
+    align-content: flex-end;
+    align-items: center;
+}
