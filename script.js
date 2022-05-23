@@ -33,4 +33,4 @@ const interval=setInterval(() => {
       }, 2000);
     }, 2000);
   }, 2000);
-clearInterval(setInterval)
+clearInterval(interval)
